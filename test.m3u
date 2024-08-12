@@ -132,6 +132,3 @@ SBS KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 SBS TJB,http://1.245.74.5:1935/live/tv/.m3u8
 EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-CTS,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8
-CBS News,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8
-CBS 6 WRGB,https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
