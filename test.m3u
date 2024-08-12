@@ -128,6 +128,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 SBS CJB,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-SBS News,https://ythlsgo.onrender.com/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
+SBS KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 SBS TJB,http://1.245.74.5:1935/live/tv/.m3u8
-V Chosun 2,#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+Chosun 2,#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
