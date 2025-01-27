@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+CCTV-1,http://219.135.180.210:18888/hls/1/index.m3u8
 CCTV-2,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8
 CCTV-2,http://183.255.10.89:6610/200000001898/460000089800010211/1.m3u8?IASHttpSessionId=OTT
 CCTV-2,http://183.94.1.118:8801/tsfile/live/0002_1.m3u8
