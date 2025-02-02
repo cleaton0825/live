@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV-1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
+CCTV-1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-2,http://bl.dchwtq.asia:10000/rtp/239.69.1.102:10250
 CCTV-3,http://bl.dchwtq.asia:10000/rtp/239.69.1.122:10370
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
