@@ -102,8 +102,5 @@ HLDFDTV.kr,http://1.245.74.5:1935/live/tv/.m3u8
 HLDHDTV.kr,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 HLDRDTV.kr,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 HLQSDTV.kr,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-KBS1,https://epg.pm/stream/7fbc8b34a773aa3a093013adc12e9ddd31d2b02926971899ae5d703b5a680589.m3u8
-KBS2,http://itskoi.dothome.co.kr/kbs.php?id=11
-KBS3,https://1tvhd.gscdn.kbs.co.kr/1tv-02/1tv-02_hd.m3u8?Expires=1641663010&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHZoZC5nc2Nkbi5rYnMuY28ua3IvMXR2LTAyLzF0di0wMl9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQxNjYzMDEwfX19XX0_&Signature=iO6sRrEn6C-MFzWpJQzKC9Zs8tn8RcM7MZ~ELVUrC-VC~VBRUiahqRZm18E9rn5ydh~ogYXkAH0kHU8dUU2q~tKxFr6o8Jl1RFGZOvrysNpjHEfN~o4Jf03JbBKVjK5jpG1LE5Dy8COqLqXbR4-e~TlBcum63B5mBaC0f8saTgcqaa5nqw1WXOxXa0bNh8KcByC59IlssLxnSSOBJjWLlJzcpIA8kbD3WlDlld8CcjCCjM2ZreY4lZ~r9ANLtTuqLgIfWR7bpsQ99J4JB4qOClz6-uO63aF~KCWjTR8wp19eBZIkagkvDD92aNuB~aaX47rfjz2jFenZDIl2We1BwQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-
+KBS1,http://202.60.106.14:21585/200/playlist.m3u8
+KBS2,https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
