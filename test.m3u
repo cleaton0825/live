@@ -3,7 +3,6 @@ KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-TVChosun,https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/playlist.m3u8
 SBS CJB,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 SBS KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 SBS TJB,http://1.245.74.5:1935/live/tv/.m3u8
@@ -47,3 +46,4 @@ HLDFDTV.kr,http://1.245.74.5:1935/live/tv/.m3u8
 HLDHDTV.kr,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 HLDRDTV.kr,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 HLQSDTV.kr,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+KCTV,https://tv.nknews.org/tvdash/stream.mpd
