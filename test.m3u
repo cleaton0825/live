@@ -42,11 +42,9 @@ HLANDTV.kr,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 HLAODTV.kr,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 HLATDTV.kr,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 HLCQDTV.kr,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-CCTV1,https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-2100
-CCTV6,https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv6_1_480P/playlist.m3u8?wsApp=HLS
 HLDFDTV.kr,http://1.245.74.5:1935/live/tv/.m3u8
 HLDHDTV.kr,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 HLDRDTV.kr,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 HLQSDTV.kr,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-CCTV1,https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-2100
-CCTV6,https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv6_1_480P/playlist.m3u8?wsApp=HLS
+CCTV1,https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8
+CCTV6,https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv6_1_480P/playlist.m3u8
