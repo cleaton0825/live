@@ -2,6 +2,7 @@
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 TV Chosun,https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/playlist.m3u8
+TV Chosun2,https://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 SBS CJB,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
