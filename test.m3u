@@ -1,94 +1,9 @@
 韩国频道,#genre#
 KBS1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzEzNDAzMjN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=gGd10s79bjGyz7pltlTIgwWV5s4BgBc0163fv~caFTWCjRWLjmHvuMaQotDFM7DBtKsAxB6EbMl-LT2-q1YBQrx63U7fd5BYYdZ9GFXstReT8ZsAXwjiIKmjtwvqtV3OezjNFUPCJuyd454foU6kCIOTrVpfLRMqvHW-tGQzi~GIQcr6IrbIUovsNZyi-NS~rpiqrX5Pi9E5C1pNtI23NLsMcX9hPGeOS1J0WnOpSu7h7ABEwwaQvOV-SUxXz1KQPNpTEeZiNgr3yeDWuklX8JRVXhlBIvw~r5QShGORaDW22WzIDMWDr2wyXGBO89thUSXOqTaADWNAD623~tcpbg__
 KBS2,https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzEzNDA0MDZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=aSq9FgfyTs8BAu7I0LUGyJmCJtR2IRre9Fy9Z6UkdNsLenLh3Q5w5JYvrd4aGelnSVc6dCae1GwqemOBu0QYIpol0vbBtggVIlBFoBGosZTDv-4XKFXvJ4s2UXIGFBdDwJEfjOJJm5Qxw09EvtSrjtMRZmT5UEcboJ2XtkByFbSry2gsgMe8BFzzEWTRrUnztSGZXJ2ogs3w01f5t3LPP8LouMucvM39B8ytH6jTqomIjLLwB82gx0DoxqJ0J3bk4lR1w45sGnZbNgpspgH-7Mc3A6vzXXKAE80bOa-d9hEWMEP~xxTC33fBE-ohjUBDLVm2oFpGQ7HArEY5kIe1VA__
-TV Chosun,https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/playlist.m3u8
 TV Chosun2,https://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
-KBS World,http://103.78.149.54:8000/play/a02e/index.m3u8
+KBS World,https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MTM0MDgxOX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=eG4jgDZzv77RJi3kTwhdbJeFN5iOGi2VhF1W-GCR9N9C7wsBF9E0EIBAE3RggywGASFSTnWAPvDfyZUtFPN9A7Sp7~TGRo7oXc6V4t3GFFkcL7C2PuOl5L8-COjDjvF9DpbhENXKcKQqpetX-CAv3mvp1G7h192v0tfNyDdoedvE35WCAAp9nkX672iYOx0yHcZ4HsrBxUmBQEu72C9PI99jyUse8mDwn86ZrWmuQbyxfffnDknZUXvUHLtOejW182Ou9M0mx8W6CBDL1MhJka1Ae2lsrVpDTtb~Q8eWfJlDIY-fDamzJeLf0cs6osW7TSpbrftPheQinRfgngBJ9Q__
 SBS CJB,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-SBS KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-SBS TJB,http://1.245.74.5:1935/live/tv/.m3u8
 EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 ABN.kr,https://vod2.abn.co.kr/IPHONE/abn.m3u8
-ArirangTV.kr,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-BBSTV.kr,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-BTNTV.kr,https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-CJOnStyle.kr,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-CTSTV.kr,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-FGTV.kr,https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
-GCN.kr,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
-GongyoungHomeShopping.kr,https://etv.publichs.com/live5.stream/playlist.m3u8
-GoodTV.kr,http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-GSMyShop.kr,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-GSShop.kr,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-GugakTV.kr,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-GugbangTV.kr,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-HomeShopping.kr,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
-HyundaiHomeShoppingPlusShop.kr,https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-KBS Joy.kr,http://mytv.dothome.co.kr/ch/catv/3.php
-KBS Life.kr,http://mytv.dothome.co.kr/ch/catv/5.php
-KBS LiveCamDokDo.kr,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-KBS Story.kr,http://mytv.dothome.co.kr/ch/catv/4.php
-KTV.kr,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-LotteHomeShopping.kr,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
-NBS.kr,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-NHTV.kr,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-OUN.kr,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-ShinsegaeTVShopping.kr,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-ShoppingNT.kr,https://live.shoppingntmall.com/live/10011.m3u8
-TBSTV.kr,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-WShopping.kr,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-HLAMDTV.kr,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-HLANDTV.kr,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-HLAODTV.kr,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-HLATDTV.kr,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-HLCQDTV.kr,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-HLDFDTV.kr,http://1.245.74.5:1935/live/tv/.m3u8
-HLDHDTV.kr,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-HLDRDTV.kr,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-HLQSDTV.kr,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-KCTV,https://tv.nknews.org/tvdash/stream.mpd
-
-央视频道,#genre#
-CCTV-1综合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV-2财经,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV-3综艺,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV-4中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV-5体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-6电影,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV-7国防军事,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV-8电视剧,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV-9纪录,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-CCTV-10科教,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV-11戏曲,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-CCTV-12社会与法,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV-13新闻,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV-14少儿,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-	
-卫视频道,#genre#
-东方卫视,http://mingjd.cn:7077/rtp/239.3.1.136:8032
-东南卫视,http://mingjd.cn:7077/rtp/239.3.1.156:8148
-广东卫视,http://mingjd.cn:7077/rtp/239.3.1.142:8048
-深圳卫视,http://mingjd.cn:7077/rtp/239.3.1.134:8020
-重庆卫视,http://mingjd.cn:7077/rtp/239.3.1.122:8160
-湖南卫视,http://mingjd.cn:7077/rtp/239.3.1.132:8012
-浙江卫视,http://mingjd.cn:7077/rtp/239.3.1.137:8036
-江苏卫视,http://mingjd.cn:7077/rtp/239.3.1.135:8028
-山东卫视,http://mingjd.cn:7077/rtp/239.3.1.209:8052
-安徽卫视,http://mingjd.cn:7077/rtp/239.3.1.211:8064
-河北卫视,http://mingjd.cn:7077/rtp/239.3.1.138:8044
-吉林卫视,http://mingjd.cn:7077/rtp/239.3.1.240:8172
-辽宁卫视,http://mingjd.cn:7077/rtp/239.3.1.210:8056
-黑龙江卫视,http://mingjd.cn:7077/rtp/239.3.1.133:8016
-贵州卫视,http://mingjd.cn:7077/rtp/239.3.1.149:8076
-江西卫视,http://mingjd.cn:7077/rtp/239.3.1.123:8164
-天津卫视,http://mingjd.cn:7077/rtp/239.3.1.141:1234
-河北卫视,http://mingjd.cn:7077/rtp/239.3.1.148:8072
-
-
-
-
-
-
-
