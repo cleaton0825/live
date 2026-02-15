@@ -1,6 +1,6 @@
 韩国频道,#genre#
-KBS1,http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
-KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzEzNDAzMjN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=gGd10s79bjGyz7pltlTIgwWV5s4BgBc0163fv~caFTWCjRWLjmHvuMaQotDFM7DBtKsAxB6EbMl-LT2-q1YBQrx63U7fd5BYYdZ9GFXstReT8ZsAXwjiIKmjtwvqtV3OezjNFUPCJuyd454foU6kCIOTrVpfLRMqvHW-tGQzi~GIQcr6IrbIUovsNZyi-NS~rpiqrX5Pi9E5C1pNtI23NLsMcX9hPGeOS1J0WnOpSu7h7ABEwwaQvOV-SUxXz1KQPNpTEeZiNgr3yeDWuklX8JRVXhlBIvw~r5QShGORaDW22WzIDMWDr2wyXGBO89thUSXOqTaADWNAD623~tcpbg__
+KBS2,https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzEzNDA0MDZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=aSq9FgfyTs8BAu7I0LUGyJmCJtR2IRre9Fy9Z6UkdNsLenLh3Q5w5JYvrd4aGelnSVc6dCae1GwqemOBu0QYIpol0vbBtggVIlBFoBGosZTDv-4XKFXvJ4s2UXIGFBdDwJEfjOJJm5Qxw09EvtSrjtMRZmT5UEcboJ2XtkByFbSry2gsgMe8BFzzEWTRrUnztSGZXJ2ogs3w01f5t3LPP8LouMucvM39B8ytH6jTqomIjLLwB82gx0DoxqJ0J3bk4lR1w45sGnZbNgpspgH-7Mc3A6vzXXKAE80bOa-d9hEWMEP~xxTC33fBE-ohjUBDLVm2oFpGQ7HArEY5kIe1VA__
 TV Chosun,https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/playlist.m3u8
 TV Chosun2,https://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
@@ -85,6 +85,7 @@ CCTV-14少儿,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 江西卫视,http://mingjd.cn:7077/rtp/239.3.1.123:8164
 天津卫视,http://mingjd.cn:7077/rtp/239.3.1.141:1234
 河北卫视,http://mingjd.cn:7077/rtp/239.3.1.148:8072
+
 
 
 
